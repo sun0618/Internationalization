@@ -1,0 +1,9 @@
+/* 
+  user.strings
+  Internationalization
+
+  Created by yang.sun on 2020/7/15.
+  Copyright © 2020 sun. All rights reserved.
+*/
+
+"userName" = "张三";
